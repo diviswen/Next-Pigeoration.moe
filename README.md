@@ -1,7 +1,7 @@
 # Next-Pigeoration.moe
 The next pigeon-generation(Pigeoration) project.
 
-##Progress record
+## Progress record
 2017/08/26
 1. Now I'm working on generating colored paintings from sketches.
 2. The network is based on SRResNet (code borrowed from https://github.com/zsdonghao/SRGAN) with some modification on the generator.
@@ -9,5 +9,4 @@ The next pigeon-generation(Pigeoration) project.
 
 Here are some results:
 
-<img src=https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/colored_128.png width="256" height="256">
-<img src=https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/gray_128.png width="256" height="256">
+<img src=https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/colored_128.png width="256" height="256"> <img src=https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/gray_128.png width="256" height="256">
