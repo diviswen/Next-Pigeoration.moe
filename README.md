@@ -8,5 +8,5 @@ The next pigeon-generation(Pigeoration) project.
 3. I tried WGAN and DRAGAN instead of the original form of GAN and found that WGAN works pretty well.
 
 Here are some results:
-![colored 128×128](https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/colored_128.png {width=256px height=256px})
-![gray 128×128](https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/gray_128.png {width=256px height=256px})
+![image](https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/colored_128.png "colored 256×256" {width=256px height=256px})
+![image](https://github.com/diviswen/Next-Pigeoration.moe/blob/master/images/gray_128.png "gray 256×256" {width=256px height=256px})
